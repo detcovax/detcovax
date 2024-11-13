@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @detcovax
 - 👀 I’m interested in Theoretical Mathematical Physics and Data Science
-- 🌱 I’m currently learning Python and R for Statistical Analysis
+- 🌱 I use Python and always seeking to learn more and other tools for analysis
 - 💞️ I’m looking to collaborate on anything ya got
 - 📫 How to reach me (TBD)
 
